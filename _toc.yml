@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: introqckids
+chapters:
+- file: quantum00
+- file: quantum01
+- file: quantum02
+- file: quantum02b
+- file: quantum03
+- file: quantum04
